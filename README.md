@@ -1,3 +1,4 @@
+## 🎬 Demo: https://github.com/user-attachments/assets/1bf33e67-3b41-4421-9a8a-cc56af831636
 # Job-Tracker
 A full-stack Job Tracker application built with Node.js, Express, MongoDB, and React, designed to help users manage job applications efficiently with authentication, tracking, and notifications.
 🚀 Job Tracker App
@@ -101,6 +102,15 @@ Job reminders
 Resume upload feature
 Advanced AI job suggestions
 Deployment on cloud platforms
+
+SCREENSHOTS 
+![App Demo]
+
+
+<img width="1696" height="934" alt="Image" src="https://github.com/user-attachments/assets/63fd6c07-3b9a-4dfc-bdd3-388555efc5a1" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/39b9cd7e-758e-48d0-a222-776afcbf8fab" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bd62531e-ae24-48d2-9c93-ed82ac8c5b84" />
+
 
 
 
