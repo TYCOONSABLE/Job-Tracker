@@ -101,9 +101,9 @@ Job reminders
 Resume upload feature
 Advanced AI job suggestions
 Deployment on cloud platforms
-📸 Screenshots (optional)
 
-Add screenshots of your UI here
+
+
 
 👨‍💻 Author
 Your ARUN
